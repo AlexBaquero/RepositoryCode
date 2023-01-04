@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/baseDatos/FachadaBaseDatos.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/aplicacion/HacerOfertaVentaCripto.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VPagosDividendos.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/aplicacion/FachadaAplicacion.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/ModeloTablaCriptoMonedas.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/FachadaGui.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VCompraCriptos.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VVentaAcciones.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VCambiarContrasena.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VRegistro.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VGestionCriptomonedas.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/baseDatos/DAOEmpresas.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/aplicacion/Empresa.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VHacerOfertaVenta.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VMiEmpresa.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VRetirarParticipaciones.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VHistorialOfertaVenta.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VPrincipalAdministrador.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VCrearAnuncio.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VRegistroEmpresa.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/aplicacion/Criptomoneda.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VPerfil.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VPrincipal.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/aplicacion/HacerOfertaVenta.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VVenderCriptoMonedas.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VModificarFondos.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VSeleccionAcciones.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VPagoPorAccion.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VAviso.java</file>
+            <file>file:/C:/Users/itocd/Documents/GitHub/basesNetbeans/src/gui/VAutentificacion.java</file>
+        </group>
+    </open-files>
+</project-private>
