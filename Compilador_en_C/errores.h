@@ -1,0 +1,1 @@
+void PrintError(int tipoerror,char *lina);
